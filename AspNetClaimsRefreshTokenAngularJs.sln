@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetClaimsRefreshTokenAngularJs", "AspNetClaimsRefreshTokenAngularJs\AspNetClaimsRefreshTokenAngularJs.csproj", "{3FE1E613-01B9-46D2-85B4-BC991523C1DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE1E613-01B9-46D2-85B4-BC991523C1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE1E613-01B9-46D2-85B4-BC991523C1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE1E613-01B9-46D2-85B4-BC991523C1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE1E613-01B9-46D2-85B4-BC991523C1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
